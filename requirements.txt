@@ -5,3 +5,4 @@ pystray
 # undetected-chromedriver
 # this is installed only on windows
 pywin32; sys_platform == "win32"
+windows-curses; sys_platform == "win32"
